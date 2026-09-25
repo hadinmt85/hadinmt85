@@ -23,4 +23,4 @@
 ### 📫 Let's Connect
 
 - 🐙 [GitHub](https://github.com/hadinmt85)
-- 📱 [Telegram](https://t.me/your-username)
+- 📱 [Telegram](https://t.me/hadinmt85)
