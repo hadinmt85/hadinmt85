@@ -22,5 +22,5 @@
 
 ### 📫 Let's Connect
 
-- 📧 [Email](mailto:your-namatihadi7@gmail.com)
+- 📧 [Email](mailto:namatihadi7@gmail.com)
 - 📱 [Telegram](https://t.me/hadinmt85)
