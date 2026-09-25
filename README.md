@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I'm Hadi
 
-<!--
-**hadinmt85/hadinmt85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 💻 I'm Hadi — I work with Next.js, TypeScript, and Tailwind CSS, always learning and building new things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 Always learning something that breaks my old code
+- 🥋 Debugging is my cardio
+- 🌍 Based on planet Earth (most days)
+
+---
+
+### 🧳 Tech Toolbox
+
+**Frontend:** React ⚛️ | Next.js 🚀 | TypeScript 🔷 | Tailwind 🎨
+
+**DevOps:** Git 🔧 | GitHub 🐙
+
+---
+
+### 📫 Let's Connect
+
+- 📧 [Email](mailto:your-namatihadi7@gmail.com)
+- 📱 [Telegram](https://t.me/hadinmt85)
