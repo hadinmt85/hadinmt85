@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 
-- 🧠 Always learning something that breaks my old code
-- 🥋 Debugging is my cardio
-- 🌍 Based on planet Earth (most days)
+- 📚 Always learning something that breaks my old code
+- 🔧 Debugging is my cardio
+- ☕ Powered by coffee and Stack Overflow
 
 ---
 
@@ -16,7 +16,7 @@
 
 **Frontend:** React ⚛️ | Next.js 🚀 | TypeScript 🔷 | Tailwind 🎨
 
-**DevOps:** Git 🔧 | GitHub 🐙
+**DevOps:** Git 🌿 | GitHub 🐙
 
 ---
 
